@@ -98,7 +98,7 @@ Amazon Bedrockによる**AIエージェント開発**に取り組む方々にと
 - [020-030-020.評価](020.BedrockAgentCore/020-030-020.評価.md) 
 
 #### 030.Bedrockナレッジベース　
-- [030-000-000.BedrockKnowldegeBaseとは](030.Bedrockナレッジベース/030-000-000.BedrockKnowldegeBaseとは.md)
+- [030-000-000.Bedrockナレッジベースとは](030.Bedrockナレッジベース/030-000-000.Bedrockナレッジベースとは.md)
 - [030-010-010.AmazonTextract](030.Bedrockナレッジベース/030-010-010.AmazonTextract.md)
 
 #### 040.Bedrockエージェント
