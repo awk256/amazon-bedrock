@@ -80,7 +80,7 @@ Amazon Bedrockによる**AIエージェント開発**に取り組む方々にと
 ### 目次 
 ---
 #### 010.AmazonBedrock
-　[010-000-000.Amazon Bedrockとは](010.AmazonBedrock/010-000-000.Amazon%20Bedrockとは.md)
+- [010-000-000.Amazon Bedrockとは](010.AmazonBedrock/010-000-000.Amazon%20Bedrockとは.md)
 　
 #### 020.BedrockAgentCore
 - [020-000-000.AgentCoreとは](020.BedrockAgentCore/020-000-000.AgentCoreとは.md)
