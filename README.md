@@ -1,6 +1,8 @@
 # 『図解Amazon Bedrock徹底解説』
 <br>
-Amazon Bedrockは、AWS（Amazon Web Services）が提供する、**生成AIアプリケーションを構築・運用するためのフルマネージド型プラットフォーム（実行基盤）**　です。
+
+Amazon Bedrockは、AWS（Amazon Web Services）が提供する、**生成AIアプリケーションを構築・運用するためのフルマネージド型プラットフォーム（実行基盤）** です。
+<br>
 
 
 <img src="images/amazon_bedrock_technical_guide.png" width="400" alt="図解Amazon Bedrock徹底解説">
