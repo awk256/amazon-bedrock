@@ -41,9 +41,10 @@ Amazon Bedrockによる**AIエージェント開発**に取り組む方々にと
 - Cypherクエリー言語の事例で学ぶ グラフデータベース Neo4j、インプレスR&D、2015
 - Neo4jを使うグラフ型データベース入門（共著）、リックテレコム、2016
 - RDB技術者のためのNoSQLガイド（共著）、秀和システム新社、2016
-- 図解 Strandsエージェント徹底解説、2026（Web公開※）  
-- 図解 Amazon Bedrock徹底解説、2026（Web公開※）  
+- [図解 Strandsエージェント徹底解説](https://github.com/awk256/strandsagents)、2026（Web公開※）  
+- [図解 Amazon Bedrock徹底解説](https://github.com/awk256/amazon-bedrock)、2026（Web公開※）  
  ※本書は紙での出版予定はありません。
+
  <br>
 
 ### 掲載内容について
