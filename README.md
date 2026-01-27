@@ -5,10 +5,10 @@
 Amazon Bedrockは、AWS（Amazon Web Services）が提供する、**生成AIアプリケーションを構築・運用するためのフルマネージド型プラットフォーム（開発・運用基盤）** です。
 
 
-<img src="images/amazon_bedrock_technical_guide.png" width="400" alt="図解Amazon Bedrock徹底解説">
+<img src="images/amazon_bedrock_technical_guide.png" width="300" alt="図解Amazon Bedrock徹底解説">
 
 
-『**図解 Aamzon Bedrock徹底解説**』は、筆者が Amazon Bedrock を学習・検証する過程で記録してきたメモをもとに構成しています。
+本書は、筆者が Amazon Bedrock を学習・検証する過程で記録してきたメモをもとに構成しています。
 
 Amazon Bedrockによる**AIエージェント開発**に取り組む方々にとって、本書が少しでも参考になれば幸いです。
 
@@ -21,7 +21,8 @@ Amazon Bedrockによる**AIエージェント開発**に取り組む方々にと
 <br>
 
 
-**主よ、私が声をあげて叫ぶとき、聞いてください。私をあわれみ、私に答えてください。** <br>
+**主よ、私が声をあげて叫ぶとき、聞いてください。<br>
+私をあわれみ、私に答えてください。** <br>
 （『新改訳聖書』詩編27:7）
 <br>
 
